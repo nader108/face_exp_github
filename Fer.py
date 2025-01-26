@@ -5,7 +5,7 @@ from PIL import Image
 import cv2
 
 # Cache the model to avoid reloading on each run
-@st.cache_resource
+
 def load_emotion_model():
     return load_model('model_weights.keras')
 
