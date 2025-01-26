@@ -5,7 +5,8 @@ seaborn
 scipy
 scikit-learn
 streamlit
-nltk
 tensorflow
+opencv-python-headless
+
 
 
